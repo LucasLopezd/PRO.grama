@@ -11,14 +11,16 @@ module.exports = {
     // },
     extend: {
       colors: {
+        BlueMedium: '#0D2538',
         BlueDark: '#000C18',
         Blue: '#011627',
-        BlueLigth: '#081f31',
-        BlueLink: '#0D2538',
+
+        BlueLight: '#0D2538',
+        BlueLink: '#E9F9FF',
         GreenLight: '#BCF0C0',
         Green: '#6BFF81',
         GrayDark: '#161616',
-        GrayLight: '#F4F4F4',
+        GrayLight: '#F4F4F4'
       },
       gridTemplateColumns: {
         // added new 4 column grid as new4
